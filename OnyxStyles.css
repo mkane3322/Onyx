@@ -1,8 +1,11 @@
+* {
+    background-color: black;
+}
 nav {
     display: flex;
-    background-color: black;
     color: white;
     font-family: "Roboto Condensed";
-    justify-content: space-between;
-    width: 800px;
+    width: 100%;
+    font-size: 24px;
+    font-weight: bolder;
 }
