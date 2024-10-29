@@ -1,0 +1,8 @@
+nav {
+    display: flex;
+    background-color: black;
+    color: white;
+    font-family: "Roboto Condensed";
+    justify-content: space-between;
+    width: 800px;
+}
