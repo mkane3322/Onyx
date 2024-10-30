@@ -8,4 +8,12 @@ nav {
     width: 100%;
     font-size: 24px;
     font-weight: bolder;
+    
+}
+nav ul {
+    list-style: none;
+}
+nav img {
+    width: 15px;
+    height: 15px;
 }
