@@ -1,10 +1,10 @@
 * {
     background-color: black;
+    color: white;
+    font-family: "Roboto Condensed";
 }
 nav {
     display: flex;
-    color: white;
-    font-family: "Roboto Condensed";
     width: 100%;
     font-size: 24px;
     font-weight: bolder;
@@ -16,4 +16,12 @@ nav ul {
 nav img {
     width: 15px;
     height: 15px;
+}
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
+}
+p {
+    text-align: center;
 }
