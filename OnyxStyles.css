@@ -25,3 +25,21 @@ h1 {
 p {
     text-align: center;
 }
+.langSelect {
+    text-align: center;
+}
+.startBtn {
+    margin-top: 150px;
+    text-align: center;
+}
+.startBtn button {
+    border: 2px solid white;
+    border-radius: 5%;
+    font-size: 32px;
+    font-weight: 8px;
+}
+.startBtn button:hover {
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+}
