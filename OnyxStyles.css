@@ -55,3 +55,8 @@ p {
     font-size: 20px;
     margin-right: 10px;
 }
+.navBtn button:hover {
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+}
