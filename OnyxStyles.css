@@ -46,3 +46,12 @@ p {
     color: black;
     background-color: white;
 }
+.navBtn {
+    display: flex;
+    justify-content: center;
+}
+.navBtn button {
+    border: 2px solid white;
+    font-size: 20px;
+    margin-right: 10px;
+}
